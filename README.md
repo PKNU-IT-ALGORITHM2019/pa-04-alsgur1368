@@ -14,4 +14,4 @@
 
 3. 기타 사항  
  - programming4-1.py는 정렬 힙소트, 각자 프로그래밍언어의 정렬 이 두가지만 작성하였습니다.  
- - line 49,50 의 def  adfafsf(elem):	return elem[0] 내용을 지우거나 주석처리 해야 실행이 됩니다. 
+
