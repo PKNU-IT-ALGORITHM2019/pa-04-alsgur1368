@@ -46,9 +46,6 @@ def main():
 		command_lis = string.split()
 		command1 = command_lis[0]
 
-def  adfafsf(elem):
-	return elem[0]
-
 		if command1 == "exit":
 			break
 		# ip,time,url,status
